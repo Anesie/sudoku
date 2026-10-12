@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grilleSudoku>  
+  <region numero="1">
+    <case ligne="1" colonne="1" region="1" fixe="true">5</case>
+    <case ligne="1" colonne="2" region="1"/>
+    <case ligne="2" colonne="1" region="1"/>
+    <case ligne="2" colonne="2" region="1"/>
+    <case ligne="3" colonne="1" region="1"/>
+    <case ligne="3" colonne="2" region="1"/>
+    <case ligne="1" colonne="1" region="1"/> 
+    <case ligne="2" colonne="3" region="1"/>
+    <case ligne="3" colonne="3" region="1"/>
+  </region>
+  <!-- autres régions manquantes volontairement -->
+</grilleSudoku>
